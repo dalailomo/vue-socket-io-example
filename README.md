@@ -5,14 +5,6 @@ Demo app using Vue and Socket.io
 - Runs port `8080`
 - It communicates trough web sockets on port `3000`
 
-## Usage
-
-![Usage](/quick.png)
-
-## With Vuex
-
-![Usage](/withvuex.png)
-
 # Running
 
 ## Vue app
@@ -31,3 +23,15 @@ $ yarn run dev
 # serve on localhost:3000
 $ node server.js
 ```
+
+# Dependencies used
+
+![Usage](/libs.png)
+
+# TL;DR Usage
+
+![Usage](/quick.png)
+
+# TL;DR With Vuex
+
+![With vuex](/withvuex.png)
